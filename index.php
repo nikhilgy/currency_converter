@@ -36,7 +36,7 @@
 				<select class="btn btn-secondary dropdown-toggle col-md-6" id="from" onchange="convertCurrency();">
 					<option value=""></option>					
 				</select>
-		<small style="margin-left: 42px;">Please enter Numeric Values Only.</small>
+		<small style="margin-left: 43px;">Please enter Numeric Values Only.</small>
 		</div>
 		
 		<div class="row">
