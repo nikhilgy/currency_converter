@@ -1,0 +1,28 @@
+
+
+body{
+	padding-bottom: 50px;
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+	background-color: lightgray;
+}
+
+.container{
+	margin-top: 50px; 
+	border: black solid 2px;
+
+}
+
+.row{
+	margin: 10px 100px;
+	padding-top: 30px;
+}
+.navbar{
+	height: 100px;
+}
+footer{
+	position: fixed;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+}
